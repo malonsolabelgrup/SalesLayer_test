@@ -1,0 +1,7 @@
+{
+    "require": {
+        "saleslayer/saleslayer-php-sdk": "^1.0",
+        "symfony/var-dumper": "^5.4",
+        "nesbot/carbon": "^2.55"
+    }
+}
